@@ -80,16 +80,6 @@
 <img src="https://raw.githubusercontent.com/aryanputta/aryanputta/output/snake-dark.svg" width="100%" />
 </div>
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/aryanputta/aryanputta/main/assets/status.svg" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/status-building-C9AA71?style=flat-square&labelColor=111111" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/open%20to-research%20%26%20roles-C9AA71?style=flat-square&labelColor=111111" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/lap%20delta--0.3s-C9AA71?style=flat-square&labelColor=111111" />
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a2414,1a1812,0d1117&height=80&section=footer" />
+<img width="100%" src="https://raw.githubusercontent.com/aryanputta/aryanputta/main/assets/skyline.svg" />
