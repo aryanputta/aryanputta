@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://linkedin.com/in/aryanputta"><b>linkedin</b></a>
-</div>
-
 <img width="100%" src="https://raw.githubusercontent.com/aryanputta/aryanputta/main/assets/banner.svg" />
 
 <br/>
