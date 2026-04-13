@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/aryanputta"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=C9AA71" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/NYC%20🌃-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/NYC-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/he%2Fhim-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
   &nbsp;
