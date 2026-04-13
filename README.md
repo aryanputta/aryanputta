@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=520&lines=hey%2C+i'm+aryan+%E2%80%94+he%2Fhim;ai+systems+%26+autonomous+tech;llm+inference+%7C+robotics+%7C+aero;building+things+in+nyc" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=aryan+putta;ai+systems+%26+autonomous+tech;llm+%7C+robotics+%7C+aero+%7C+nyc" alt="header" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/aryanputta)
+<a href="https://linkedin.com/in/aryanputta"><img src="https://img.shields.io/badge/linkedin-0A0A0A?style=flat-square&logo=linkedin&logoColor=A78BFA" /></a>
 &nbsp;
-![NYC](https://img.shields.io/badge/new_york_city-0A0A0A?style=for-the-badge&logo=mapbox&logoColor=A78BFA)
+<img src="https://img.shields.io/badge/new%20york-0A0A0A?style=flat-square&logo=mapbox&logoColor=A78BFA" />
 &nbsp;
-![pronouns](https://img.shields.io/badge/he%2Fhim-0A0A0A?style=for-the-badge&logoColor=A78BFA)
+<img src="https://img.shields.io/badge/he%2Fhim-0A0A0A?style=flat-square&logoColor=A78BFA" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=aryanputta&style=flat-square&color=A78BFA&label=views" />
 
 </div>
 
----
+<br/>
 
 ```python
 aryan = {
@@ -52,25 +54,21 @@ aryan = {
 
 <br/>
 
-**`// metrics`**
+**`// stats`**
 
 <div align="center">
-  <img src="github/metrics.svg" alt="metrics" />
+
+<img src="https://streak-stats.demolab.com?user=aryanputta&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=888888&dates=555555&stroke=222222&background=00000000" />
+
+<br/><br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=aryanputta&show_icons=true&hide_border=true&bg_color=00000000&icon_color=A78BFA&title_color=A78BFA&text_color=888888&ring_color=A78BFA&count_private=true&hide=contribs" />
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanputta&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=888888&langs_count=5" />
+
 </div>
 
 <br/>
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=aryanputta&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanputta&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanputta&theme=dark&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" />
-</div>
 
 ---
 
