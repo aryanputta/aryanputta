@@ -1,53 +1,127 @@
-<svg width="830" height="200" viewBox="0 0 830 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="830" height="295" viewBox="0 0 830 295" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-  <clipPath id="l0"><rect x="44" y="44" width="0" height="20"><animate attributeName="width" from="0" to="140" dur="0.35s" begin="0.2s" fill="freeze"/></rect></clipPath>
-  <clipPath id="l1"><rect x="44" y="68" width="0" height="20"><animate attributeName="width" from="0" to="490" dur="0.85s" begin="0.7s" fill="freeze"/></rect></clipPath>
-  <clipPath id="l2"><rect x="44" y="92" width="0" height="20"><animate attributeName="width" from="0" to="490" dur="0.75s" begin="1.7s" fill="freeze"/></rect></clipPath>
-  <clipPath id="l3"><rect x="44" y="116" width="0" height="20"><animate attributeName="width" from="0" to="490" dur="0.75s" begin="2.6s" fill="freeze"/></rect></clipPath>
-  <clipPath id="l4"><rect x="44" y="140" width="0" height="20"><animate attributeName="width" from="0" to="490" dur="0.85s" begin="3.5s" fill="freeze"/></rect></clipPath>
-  <clipPath id="l5"><rect x="44" y="164" width="0" height="20"><animate attributeName="width" from="0" to="30"  dur="0.15s" begin="4.5s" fill="freeze"/></rect></clipPath>
-  <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
-    <feGaussianBlur stdDeviation="2.2" result="b"/>
-    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
-  <filter id="pg" x="-100%" y="-100%" width="300%" height="300%">
+  <clipPath id="l0"><rect x="46" y="131" width="0" height="20"><animate attributeName="width" from="0" to="140" dur="0.35s" begin="0.2s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l1"><rect x="46" y="155" width="0" height="20"><animate attributeName="width" from="0" to="500" dur="0.85s" begin="0.7s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l2"><rect x="46" y="179" width="0" height="20"><animate attributeName="width" from="0" to="500" dur="0.75s" begin="1.7s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l3"><rect x="46" y="203" width="0" height="20"><animate attributeName="width" from="0" to="500" dur="0.75s" begin="2.6s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l4"><rect x="46" y="227" width="0" height="20"><animate attributeName="width" from="0" to="500" dur="0.85s" begin="3.5s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l5"><rect x="46" y="251" width="0" height="20"><animate attributeName="width" from="0" to="28"  dur="0.15s" begin="4.5s" fill="freeze"/></rect></clipPath>
+
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
     <feGaussianBlur stdDeviation="2.5" result="b"/>
     <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
-  <path id="cir" d="M606,40 L706,40 Q720,40 720,54 L720,74 Q720,88 706,88 L674,88 Q660,88 660,102 L660,122 Q660,136 674,136 L748,136 Q762,136 762,150 L762,162 Q762,176 748,176 L596,176 Q582,176 582,162 L582,126 Q582,112 596,112 L620,112 Q634,112 634,98 L634,76 Q634,62 620,62 L596,62 Q582,62 582,50 Q582,40 596,40 Z"/>
+  <filter id="hglow" x="-50%" y="-200%" width="200%" height="500%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="pg" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <path id="cir" d="M608,123 L706,123 Q720,123 720,137 L720,157 Q720,171 706,171 L674,171 Q660,171 660,185 L660,207 Q660,221 674,221 L748,221 Q762,221 762,235 L762,248 Q762,261 748,261 L598,261 Q584,261 584,248 L584,211 Q584,197 598,197 L622,197 Q636,197 636,183 L636,159 Q636,145 622,145 L598,145 Q584,145 584,133 Q584,123 598,123 Z"/>
 </defs>
-<rect width="830" height="200" fill="#0d0800"/>
-<g stroke="#0f0700" stroke-width="1"><line x1="0" y1="66" x2="830" y2="66"/><line x1="0" y1="132" x2="830" y2="132"/></g>
-<rect x="14" y="14" width="2" height="172" fill="#2a1500" rx="1"/>
-<rect x="28" y="26" width="536" height="158" rx="5" fill="#070400" stroke="#1c0e00" stroke-width="1"/>
-<circle cx="44" cy="36" r="3.5" fill="#2a1500"/><circle cx="57" cy="36" r="3.5" fill="#1e1000"/><circle cx="70" cy="36" r="3.5" fill="#1e1000"/>
-<line x1="28" y1="44" x2="564" y2="44" stroke="#1c0e00" stroke-width="1"/>
-<rect x="57" y="166" width="6" height="12" rx="1" fill="#C9AA71" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9;0.91;0.96;0.97;1" dur="0.9s" begin="4.7s" repeatCount="indefinite"/></rect>
+
+<!-- Background: exact GitHub dark mode color — seamless with page -->
+<rect width="830" height="295" fill="#0d1117"/>
+
+<!-- ── HEADER ── -->
+<text x="415" y="36" font-family="'Courier New',Courier,monospace" font-size="30" fill="#C9AA71" text-anchor="middle" font-weight="bold" filter="url(#hglow)">aryan putta</text>
+<text x="415" y="57" font-family="'Courier New',Courier,monospace" font-size="11" fill="#6a6050" text-anchor="middle" letter-spacing="1">ai systems — autonomous tech — nyc</text>
+
+<!-- Divider between header and code area -->
+<line x1="28" y1="72" x2="802" y2="72" stroke="#1e1c14" stroke-width="1"/>
+
+<!-- ── CODE BLOCK ── -->
+<line x1="0" y1="155" x2="580" y2="155" stroke="#161616" stroke-width="1"/>
+<line x1="0" y1="225" x2="580" y2="225" stroke="#161616" stroke-width="1"/>
+<rect x="14" y="103" width="2" height="174" fill="#2a2414" rx="1"/>
+<rect x="28" y="107" width="544" height="172" rx="6" fill="#111111" stroke="#1e1c14" stroke-width="1"/>
+<circle cx="46" cy="118" r="3.5" fill="#2a2414"/>
+<circle cx="59" cy="118" r="3.5" fill="#1a1a1a"/>
+<circle cx="72" cy="118" r="3.5" fill="#1a1a1a"/>
+<line x1="28" y1="127" x2="572" y2="127" stroke="#1a1812" stroke-width="1"/>
+
+<rect x="57" y="252" width="6" height="11" rx="1" fill="#C9AA71" opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9;0.91;0.96;0.97;1" dur="0.9s" begin="4.7s" repeatCount="indefinite"/>
+</rect>
+
 <g font-family="'Courier New',Courier,monospace" font-size="13">
-  <g clip-path="url(#l0)"><text x="44" y="60"><tspan fill="#C9AA71" font-weight="bold">aryan</tspan><tspan fill="#8B7355"> = {</tspan></text></g>
-  <g clip-path="url(#l1)"><text x="44" y="84"><tspan fill="#4a2800">    </tspan><tspan fill="#8B7355">"builds"  </tspan><tspan fill="#5a3e28">: [</tspan><tspan fill="#C9AA71">"LLM inference"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"autonomous MAVs"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"CFD surrogates"</tspan><tspan fill="#5a3e28">],</tspan></text></g>
-  <g clip-path="url(#l2)"><text x="44" y="108"><tspan fill="#4a2800">    </tspan><tspan fill="#8B7355">"obsessed"</tspan><tspan fill="#5a3e28">: [</tspan><tspan fill="#C9AA71">"KV cache"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"MoE routing"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"lap delta"</tspan><tspan fill="#5a3e28">],</tspan></text></g>
-  <g clip-path="url(#l3)"><text x="44" y="132"><tspan fill="#4a2800">    </tspan><tspan fill="#8B7355">"beyond"  </tspan><tspan fill="#5a3e28">: [</tspan><tspan fill="#C9AA71">"F1 strategy"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"orbital mechanics"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"NYC at 2am"</tspan><tspan fill="#5a3e28">],</tspan></text></g>
-  <g clip-path="url(#l4)"><text x="44" y="156"><tspan fill="#4a2800">    </tspan><tspan fill="#8B7355">"current" </tspan><tspan fill="#5a3e28">: </tspan><tspan fill="#C9AA71">"building what shouldn't be possible yet"</tspan><tspan fill="#5a3e28">,</tspan></text></g>
-  <g clip-path="url(#l5)"><text x="44" y="180" fill="#8B7355">}</text></g>
+  <g clip-path="url(#l0)">
+    <text x="46" y="147"><tspan fill="#C9AA71" font-weight="bold">aryan</tspan><tspan fill="#6a6050"> = {</tspan></text>
+  </g>
+  <g clip-path="url(#l1)">
+    <text x="46" y="171"><tspan fill="#2a2820">    </tspan><tspan fill="#9a8868">"builds"  </tspan><tspan fill="#3a3828">: [</tspan><tspan fill="#C9AA71">"LLM inference"</tspan><tspan fill="#3a3828">, </tspan><tspan fill="#C9AA71">"autonomous MAVs"</tspan><tspan fill="#3a3828">, </tspan><tspan fill="#C9AA71">"CFD surrogates"</tspan><tspan fill="#3a3828">],</tspan></text>
+  </g>
+  <g clip-path="url(#l2)">
+    <text x="46" y="195"><tspan fill="#2a2820">    </tspan><tspan fill="#9a8868">"obsessed"</tspan><tspan fill="#3a3828">: [</tspan><tspan fill="#C9AA71">"KV cache"</tspan><tspan fill="#3a3828">, </tspan><tspan fill="#C9AA71">"MoE routing"</tspan><tspan fill="#3a3828">, </tspan><tspan fill="#C9AA71">"lap delta"</tspan><tspan fill="#3a3828">],</tspan></text>
+  </g>
+  <g clip-path="url(#l3)">
+    <text x="46" y="219"><tspan fill="#2a2820">    </tspan><tspan fill="#9a8868">"beyond"  </tspan><tspan fill="#3a3828">: [</tspan><tspan fill="#C9AA71">"F1 strategy"</tspan><tspan fill="#3a3828">, </tspan><tspan fill="#C9AA71">"orbital mechanics"</tspan><tspan fill="#3a3828">, </tspan><tspan fill="#C9AA71">"NYC at 2am"</tspan><tspan fill="#3a3828">],</tspan></text>
+  </g>
+  <g clip-path="url(#l4)">
+    <text x="46" y="243"><tspan fill="#2a2820">    </tspan><tspan fill="#9a8868">"current" </tspan><tspan fill="#3a3828">: </tspan><tspan fill="#C9AA71">"building what shouldn't be possible yet"</tspan><tspan fill="#3a3828">,</tspan></text>
+  </g>
+  <g clip-path="url(#l5)">
+    <text x="46" y="267" fill="#6a6050">}</text>
+  </g>
 </g>
-<use xlink:href="#cir" href="#cir" fill="none" stroke="#221000" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
-<use xlink:href="#cir" href="#cir" fill="none" stroke="#0d0800" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-<use xlink:href="#cir" href="#cir" fill="none" stroke="#2a1500" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<line x1="606" y1="34" x2="606" y2="46" stroke="#C9AA71" stroke-width="2" opacity="0.6"/>
-<text x="670" y="30" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#2a1500" text-anchor="middle">monaco // lap sim</text>
-<circle r="5" fill="#C9AA71" filter="url(#glow)"><animateMotion dur="9s" repeatCount="indefinite" rotate="auto" calcMode="linear"><mpath xlink:href="#cir" href="#cir"/></animateMotion></circle>
-<circle r="8" fill="#C9AA71" opacity="0.15"><animateMotion dur="9s" repeatCount="indefinite" rotate="auto" calcMode="linear"><mpath xlink:href="#cir" href="#cir"/></animateMotion></circle>
-<g transform="translate(790,50)">
-  <ellipse rx="32" ry="18" fill="none" stroke="#1a0900" stroke-width="1.2"/>
-  <ellipse rx="18" ry="10" fill="none" stroke="#1a0900" stroke-width="0.8"/>
+
+<g stroke="#252318" stroke-width="0.8" stroke-dasharray="2,5">
+  <line x1="46" y1="149" x2="130" y2="149" opacity="0"><animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="0.55s" fill="freeze"/></line>
+  <line x1="46" y1="173" x2="480" y2="173" opacity="0"><animate attributeName="opacity" from="0" to="0.6" dur="0.2s" begin="1.55s" fill="freeze"/></line>
+  <line x1="46" y1="197" x2="416" y2="197" opacity="0"><animate attributeName="opacity" from="0" to="0.6" dur="0.2s" begin="2.45s" fill="freeze"/></line>
+  <line x1="46" y1="221" x2="460" y2="221" opacity="0"><animate attributeName="opacity" from="0" to="0.6" dur="0.2s" begin="3.35s" fill="freeze"/></line>
+  <line x1="46" y1="245" x2="500" y2="245" opacity="0"><animate attributeName="opacity" from="0" to="0.6" dur="0.2s" begin="4.35s" fill="freeze"/></line>
+</g>
+
+<text x="134" y="152" font-family="'Courier New',Courier,monospace" font-size="6.5" fill="#252318" opacity="0">
+  <animate attributeName="opacity" from="0" to="0.7" dur="0.2s" begin="0.55s" fill="freeze"/>baseline</text>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.8s" fill="freeze"/>
+  <line x1="33" y1="131" x2="33" y2="269" stroke="#202018" stroke-width="0.8"/>
+  <line x1="30" y1="131" x2="36" y2="131" stroke="#202018" stroke-width="0.8"/>
+  <line x1="30" y1="269" x2="36" y2="269" stroke="#202018" stroke-width="0.8"/>
+  <text x="23" y="203" font-family="'Courier New',Courier,monospace" font-size="6" fill="#202018" text-anchor="middle" transform="rotate(-90, 23, 203)">138px</text>
+</g>
+
+<text x="564" y="275" font-family="'Courier New',Courier,monospace" font-size="7" fill="#252318" text-anchor="end" opacity="0">
+  <animate attributeName="opacity" from="0" to="0.6" dur="0.4s" begin="4.8s" fill="freeze"/>
+  // measured ∎</text>
+
+<!-- ── F1 CIRCUIT (y+85) ── -->
+<use xlink:href="#cir" href="#cir" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<use xlink:href="#cir" href="#cir" fill="none" stroke="#0d1117" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<use xlink:href="#cir" href="#cir" fill="none" stroke="#262418" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="608" y1="117" x2="608" y2="129" stroke="#C9AA71" stroke-width="2" opacity="0.4"/>
+<text x="672" y="113" font-family="'Courier New',Courier,monospace" font-size="7" fill="#252318" text-anchor="middle">monaco // lap sim</text>
+
+<circle r="5" fill="#C9AA71" filter="url(#glow)">
+  <animateMotion dur="9s" repeatCount="indefinite" rotate="auto" calcMode="linear"><mpath xlink:href="#cir" href="#cir"/></animateMotion>
+</circle>
+<circle r="10" fill="#C9AA71" opacity="0.1">
+  <animateMotion dur="9s" repeatCount="indefinite" rotate="auto" calcMode="linear"><mpath xlink:href="#cir" href="#cir"/></animateMotion>
+</circle>
+
+<!-- ── ORBITAL (y+85) ── -->
+<g transform="translate(795,139)">
+  <ellipse rx="28" ry="16" fill="none" stroke="#1e1c14" stroke-width="1.2"/>
+  <ellipse rx="15" ry="8" fill="none" stroke="#1a1810" stroke-width="0.8"/>
   <circle r="3" fill="#C9AA71" filter="url(#pg)"/>
-  <circle r="2.5" fill="#C9AA71" opacity="0.85" filter="url(#pg)"><animateMotion dur="12s" repeatCount="indefinite" path="M32,0 a32,18 0 1,0 -64,0 a32,18 0 1,0 64,0"/></circle>
-  <circle r="1.5" fill="#7a6040" opacity="0.7"><animateMotion dur="6s" repeatCount="indefinite" path="M18,0 a18,10 0 1,0 -36,0 a18,10 0 1,0 36,0"/></circle>
+  <circle r="2.2" fill="#C9AA71" opacity="0.9" filter="url(#pg)">
+    <animateMotion dur="12s" repeatCount="indefinite" path="M28,0 a28,16 0 1,0 -56,0 a28,16 0 1,0 56,0"/>
+  </circle>
+  <circle r="1.3" fill="#8a7450" opacity="0.75">
+    <animateMotion dur="5.5s" repeatCount="indefinite" path="M15,0 a15,8 0 1,0 -30,0 a15,8 0 1,0 30,0"/>
+  </circle>
 </g>
-<text x="790" y="76" font-family="'Courier New',Courier,monospace" font-size="7" fill="#1a0900" text-anchor="middle">kepler</text>
+<text x="795" y="163" font-family="'Courier New',Courier,monospace" font-size="6.5" fill="#1e1c14" text-anchor="middle">kepler</text>
+
+<!-- Scan line -->
 <rect x="0" y="-1" width="830" height="1.5" fill="#C9AA71" opacity="0">
-  <animate attributeName="y" from="-1" to="201" dur="2s" begin="0s" fill="freeze"/>
-  <animate attributeName="opacity" values="0;0.12;0.12;0" keyTimes="0;0.02;0.97;1" dur="2s" begin="0s" fill="freeze"/>
+  <animate attributeName="y" from="-1" to="296" dur="2s" begin="0s" fill="freeze"/>
+  <animate attributeName="opacity" values="0;0.15;0.15;0" keyTimes="0;0.02;0.97;1" dur="2s" begin="0s" fill="freeze"/>
 </rect>
 </svg>
