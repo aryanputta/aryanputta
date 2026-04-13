@@ -1,0 +1,53 @@
+<svg width="830" height="200" viewBox="0 0 830 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+  <clipPath id="l0"><rect x="44" y="44" width="0" height="20"><animate attributeName="width" from="0" to="140" dur="0.35s" begin="0.2s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l1"><rect x="44" y="68" width="0" height="20"><animate attributeName="width" from="0" to="490" dur="0.85s" begin="0.7s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l2"><rect x="44" y="92" width="0" height="20"><animate attributeName="width" from="0" to="490" dur="0.75s" begin="1.7s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l3"><rect x="44" y="116" width="0" height="20"><animate attributeName="width" from="0" to="490" dur="0.75s" begin="2.6s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l4"><rect x="44" y="140" width="0" height="20"><animate attributeName="width" from="0" to="490" dur="0.85s" begin="3.5s" fill="freeze"/></rect></clipPath>
+  <clipPath id="l5"><rect x="44" y="164" width="0" height="20"><animate attributeName="width" from="0" to="30"  dur="0.15s" begin="4.5s" fill="freeze"/></rect></clipPath>
+  <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="pg" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <path id="cir" d="M606,40 L706,40 Q720,40 720,54 L720,74 Q720,88 706,88 L674,88 Q660,88 660,102 L660,122 Q660,136 674,136 L748,136 Q762,136 762,150 L762,162 Q762,176 748,176 L596,176 Q582,176 582,162 L582,126 Q582,112 596,112 L620,112 Q634,112 634,98 L634,76 Q634,62 620,62 L596,62 Q582,62 582,50 Q582,40 596,40 Z"/>
+</defs>
+<rect width="830" height="200" fill="#0d0800"/>
+<g stroke="#0f0700" stroke-width="1"><line x1="0" y1="66" x2="830" y2="66"/><line x1="0" y1="132" x2="830" y2="132"/></g>
+<rect x="14" y="14" width="2" height="172" fill="#2a1500" rx="1"/>
+<rect x="28" y="26" width="536" height="158" rx="5" fill="#070400" stroke="#1c0e00" stroke-width="1"/>
+<circle cx="44" cy="36" r="3.5" fill="#2a1500"/><circle cx="57" cy="36" r="3.5" fill="#1e1000"/><circle cx="70" cy="36" r="3.5" fill="#1e1000"/>
+<line x1="28" y1="44" x2="564" y2="44" stroke="#1c0e00" stroke-width="1"/>
+<rect x="57" y="166" width="6" height="12" rx="1" fill="#C9AA71" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9;0.91;0.96;0.97;1" dur="0.9s" begin="4.7s" repeatCount="indefinite"/></rect>
+<g font-family="'Courier New',Courier,monospace" font-size="13">
+  <g clip-path="url(#l0)"><text x="44" y="60"><tspan fill="#C9AA71" font-weight="bold">aryan</tspan><tspan fill="#8B7355"> = {</tspan></text></g>
+  <g clip-path="url(#l1)"><text x="44" y="84"><tspan fill="#4a2800">    </tspan><tspan fill="#8B7355">"builds"  </tspan><tspan fill="#5a3e28">: [</tspan><tspan fill="#C9AA71">"LLM inference"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"autonomous MAVs"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"CFD surrogates"</tspan><tspan fill="#5a3e28">],</tspan></text></g>
+  <g clip-path="url(#l2)"><text x="44" y="108"><tspan fill="#4a2800">    </tspan><tspan fill="#8B7355">"obsessed"</tspan><tspan fill="#5a3e28">: [</tspan><tspan fill="#C9AA71">"KV cache"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"MoE routing"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"lap delta"</tspan><tspan fill="#5a3e28">],</tspan></text></g>
+  <g clip-path="url(#l3)"><text x="44" y="132"><tspan fill="#4a2800">    </tspan><tspan fill="#8B7355">"beyond"  </tspan><tspan fill="#5a3e28">: [</tspan><tspan fill="#C9AA71">"F1 strategy"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"orbital mechanics"</tspan><tspan fill="#5a3e28">, </tspan><tspan fill="#C9AA71">"NYC at 2am"</tspan><tspan fill="#5a3e28">],</tspan></text></g>
+  <g clip-path="url(#l4)"><text x="44" y="156"><tspan fill="#4a2800">    </tspan><tspan fill="#8B7355">"current" </tspan><tspan fill="#5a3e28">: </tspan><tspan fill="#C9AA71">"building what shouldn't be possible yet"</tspan><tspan fill="#5a3e28">,</tspan></text></g>
+  <g clip-path="url(#l5)"><text x="44" y="180" fill="#8B7355">}</text></g>
+</g>
+<use xlink:href="#cir" href="#cir" fill="none" stroke="#221000" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<use xlink:href="#cir" href="#cir" fill="none" stroke="#0d0800" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<use xlink:href="#cir" href="#cir" fill="none" stroke="#2a1500" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="606" y1="34" x2="606" y2="46" stroke="#C9AA71" stroke-width="2" opacity="0.6"/>
+<text x="670" y="30" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#2a1500" text-anchor="middle">monaco // lap sim</text>
+<circle r="5" fill="#C9AA71" filter="url(#glow)"><animateMotion dur="9s" repeatCount="indefinite" rotate="auto" calcMode="linear"><mpath xlink:href="#cir" href="#cir"/></animateMotion></circle>
+<circle r="8" fill="#C9AA71" opacity="0.15"><animateMotion dur="9s" repeatCount="indefinite" rotate="auto" calcMode="linear"><mpath xlink:href="#cir" href="#cir"/></animateMotion></circle>
+<g transform="translate(790,50)">
+  <ellipse rx="32" ry="18" fill="none" stroke="#1a0900" stroke-width="1.2"/>
+  <ellipse rx="18" ry="10" fill="none" stroke="#1a0900" stroke-width="0.8"/>
+  <circle r="3" fill="#C9AA71" filter="url(#pg)"/>
+  <circle r="2.5" fill="#C9AA71" opacity="0.85" filter="url(#pg)"><animateMotion dur="12s" repeatCount="indefinite" path="M32,0 a32,18 0 1,0 -64,0 a32,18 0 1,0 64,0"/></circle>
+  <circle r="1.5" fill="#7a6040" opacity="0.7"><animateMotion dur="6s" repeatCount="indefinite" path="M18,0 a18,10 0 1,0 -36,0 a18,10 0 1,0 36,0"/></circle>
+</g>
+<text x="790" y="76" font-family="'Courier New',Courier,monospace" font-size="7" fill="#1a0900" text-anchor="middle">kepler</text>
+<rect x="0" y="-1" width="830" height="1.5" fill="#C9AA71" opacity="0">
+  <animate attributeName="y" from="-1" to="201" dur="2s" begin="0s" fill="freeze"/>
+  <animate attributeName="opacity" values="0;0.12;0.12;0" keyTimes="0;0.02;0.97;1" dur="2s" begin="0s" fill="freeze"/>
+</rect>
+</svg>
