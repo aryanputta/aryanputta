@@ -14,53 +14,82 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/aryanputta/aryanputta/main/assets/banner.svg" />
 
-<br/>
+<br/><br/>
+
+<div align="center"><sub><code>// work</code></sub></div>
+
 <br/>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="12">
+<table border="0" cellspacing="0" cellpadding="14">
 <tr>
-<td align="center" width="46%">
-
-**[`transformer-servex`](https://github.com/aryanputta/transformer-servex)**
-<br/><sub>Production KV cache optimization · MoE routing · IO-aware attention benchmarking for long-context LLMs</sub>
-<br/><br/>`Python` `PyTorch` `CUDA`
-
+<td align="center" width="48%">
+<a href="https://github.com/aryanputta/transformer-servex"><b><code>transformer-servex</code></b></a><br/>
+<sub>Production KV cache optimization · MoE routing · IO-aware attention for long-context LLMs</sub><br/><br/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/CUDA-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
 </td>
-<td width="8%"></td>
-<td align="center" width="46%">
-
-**[`AeroMimic`](https://github.com/aryanputta/AeroMimic)**
-<br/><sub>Behavior cloning from expert pilots · real-time onboard autonomy stack for micro aerial vehicles</sub>
-<br/><br/>`Python` `ROS`
-
+<td align="center" width="48%">
+<a href="https://github.com/aryanputta/cuda-netopt"><b><code>cuda-netopt</code></b></a><br/>
+<sub>ML-driven TCP/UDP packet scheduling · DQN network routing · CUDA queue scoring</sub><br/><br/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/CUDA-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=C9AA71" />
 </td>
 </tr>
-<tr><td colspan="3" height="8"></td></tr>
+<tr><td colspan="2" height="10"></td></tr>
 <tr>
 <td align="center">
-
-**[`aerosurrogate-control-stack`](https://github.com/aryanputta/aerosurrogate-control-stack)**
-<br/><sub>CFD surrogate modeling · constrained optimization · robustness analysis replacing expensive FEM solvers</sub>
-<br/><br/>`Python` `NumPy` `MIT`
-
+<a href="https://github.com/aryanputta/AeroMimic"><b><code>AeroMimic</code></b></a><br/>
+<sub>Behavior cloning from expert pilots · real-time MAV autonomy · onboard inference stack</sub><br/><br/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/ROS-111111?style=flat-square&logo=ros&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=C9AA71" />
 </td>
-<td></td>
 <td align="center">
-
-**[`NeuroWeave-6g`](https://github.com/aryanputta/NeuroWeave-6g)**
-<br/><sub>6G-AI co-design · learned waveform architectures · neural signal processing pipelines</sub>
-<br/><br/>`Python`
-
+<a href="https://github.com/aryanputta/aerosurrogate-control-stack"><b><code>aerosurrogate-control-stack</code></b></a><br/>
+<sub>CFD surrogate modeling · constrained optimization · robustness replacing FEM solvers</sub><br/><br/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/JAX-111111?style=flat-square&logo=google&logoColor=C9AA71" />
 </td>
 </tr>
 </table>
 </div>
 
+<br/><br/>
+
+<div align="center"><sub><code>// stack</code></sub></div>
+
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanputta&bg_color=111111&color=C9AA71&line=3a3828&point=C9AA71&area=true&area_color=1e1c14&hide_border=true&radius=4" width="96%" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,java,ts,docker,kubernetes,fastapi,linux&theme=dark" />
+</div>
+
+<br/><br/>
+
+<div align="center"><sub><code>// metrics</code></sub></div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aryanputta&show_icons=true&count_private=true&hide_rank=true&bg_color=0d0d0d&title_color=C9AA71&text_color=9a8868&icon_color=C9AA71&border_color=1e1c14&hide=issues&custom_title=contributions" height="130" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanputta&layout=compact&bg_color=0d0d0d&title_color=C9AA71&text_color=9a8868&border_color=1e1c14&langs_count=6&hide=jupyter%20notebook,html" height="130" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=aryanputta&background=0d0d0d&border=1e1c14&stroke=1e1c14&ring=C9AA71&fire=C9AA71&currStreakNum=C9AA71&sideNums=9a8868&currStreakLabel=6a6050&sideLabels=6a6050&dates=6a6050" width="55%" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/aryanputta/aryanputta/output/snake-dark.svg" width="100%" />
 </div>
 
 <br/>
