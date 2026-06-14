@@ -46,6 +46,52 @@
 
 <br/><br/>
 
+<div align="center"><sub><code>// open source</code></sub></div>
+
+<br/>
+
+<div align="center">
+<sub><b>17 merged pull requests</b> across NVIDIA · HuggingFace · IBM · LinkedIn · Microsoft · others — inference, CUDA, and ML-systems internals</sub>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/NVIDIA-7_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/IBM-3_merged-111111?style=flat-square&logo=ibm&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Dynamo-2_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/HuggingFace-1_merged-111111?style=flat-square&logo=huggingface&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/FlashAttention-1_merged-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Liger_Kernel-1_merged-111111?style=flat-square&logo=linkedin&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Microsoft-1_merged-111111?style=flat-square&logo=microsoft&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/kornia-1_merged-111111?style=flat-square&logo=python&logoColor=C9AA71" />
+</div>
+
+<br/>
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="left" width="50%"><a href="https://github.com/NVIDIA/cuda-python/pull/2087"><code>NVIDIA/cuda-python#2087</code></a><br/><sub>FIPS-safe hashes for program cache keys</sub></td>
+<td align="left" width="50%"><a href="https://github.com/NVIDIA/cuda-quantum/pull/4688"><code>NVIDIA/cuda-quantum#4688</code></a><br/><sub>nvqpp: discriminate measured-register bool iteration</sub></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/huggingface/accelerate/pull/4054"><code>huggingface/accelerate#4054</code></a><br/><sub>Aggregate profiler memory example</sub></td>
+<td align="left"><a href="https://github.com/Dao-AILab/flash-attention/pull/2622"><code>Dao-AILab/flash-attention#2622</code></a><br/><sub>weights_only=True across all torch.load sites</sub></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/ai-dynamo/dynamo/pull/10281"><code>ai-dynamo/dynamo#10281</code></a><br/><sub>HTTP 415 for unsupported image formats</sub></td>
+<td align="left"><a href="https://github.com/linkedin/Liger-Kernel/pull/1157"><code>linkedin/Liger-Kernel#1157</code></a><br/><sub>Guard save_for_backward on grad_bias in fused linear CE</sub></td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<sub><a href="https://github.com/pulls?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse">→ all merged pull requests</a></sub>
+</div>
+
+<br/><br/>
+
 <div align="center"><sub><code>// stack</code></sub></div>
 
 <br/>
