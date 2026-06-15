@@ -46,6 +46,33 @@
 
 <br/><br/>
 
+<div align="center"><sub><code>// research</code></sub></div>
+
+<br/>
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="left" width="50%">
+<a href="https://aryanputta.com/papers/hybrid-satellite-telemetry-anomaly-detection.html"><b><code>satellite telemetry anomaly detection</code></b></a><br/>
+<sub>100K telemetry readings · 5 NASA/ESA fault modes · recurrence-plot CV · 0.91 F1 on Kepler-class wheel oscillation</sub><br/>
+<sub><a href="https://aryanputta.com/assets/papers/hybrid-satellite-telemetry-anomaly-detection.pdf">PDF</a> · <a href="https://github.com/aryanputta/satellite-anomaly-detection">repo</a></sub>
+</td>
+<td align="left" width="50%">
+<a href="https://aryanputta.com/papers/bell-labs-innovation-ml-analysis.html"><b><code>bell labs ml impact analysis</code></b></a><br/>
+<sub>71-paper corpus · semantic clustering · co-authorship networks · Gradient Boosting AUC 0.674 · SHAP attribution</sub><br/>
+<sub><a href="https://aryanputta.com/assets/papers/bell-labs-innovation-ml-analysis.pdf">PDF</a> · <a href="https://github.com/aryanputta/belllabs-ml-impact">repo</a></sub>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<sub><a href="https://aryanputta.com/">aryanputta.com</a> · <a href="https://aryanputta.com/projects.html">systems projects</a> · <a href="https://aryanputta.com/#github-activity">open-source proof</a></sub>
+</div>
+
+<br/><br/>
+
 <div align="center"><sub><code>// open source</code></sub></div>
 
 <br/>
