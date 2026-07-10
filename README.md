@@ -78,19 +78,21 @@
 <br/>
 
 <div align="center">
-<sub><b>17 merged pull requests</b> across NVIDIA · HuggingFace · IBM · LinkedIn · Microsoft · others — inference, CUDA, and ML-systems internals</sub>
+<sub><b>23 merged pull requests</b> across NVIDIA · IBM · Microsoft · HuggingFace · LinkedIn · Pulumi · Kubernetes · others — inference, CUDA, and ML-systems internals</sub>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/NVIDIA-7_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/NVIDIA-9_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/IBM-3_merged-111111?style=flat-square&logo=ibm&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Dynamo-2_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Microsoft-2_merged-111111?style=flat-square&logo=microsoft&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/HuggingFace-1_merged-111111?style=flat-square&logo=huggingface&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/FlashAttention-1_merged-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Liger_Kernel-1_merged-111111?style=flat-square&logo=linkedin&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/Microsoft-1_merged-111111?style=flat-square&logo=microsoft&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Pulumi-1_merged-111111?style=flat-square&logo=pulumi&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Kubernetes-1_merged-111111?style=flat-square&logo=kubernetes&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/kornia-1_merged-111111?style=flat-square&logo=python&logoColor=C9AA71" />
 </div>
 
