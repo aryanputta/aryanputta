@@ -2,6 +2,14 @@
 
 <br/>
 
+<div align="center">
+<b>AI infrastructure · inference optimization · KV cache · distributed systems · GPU/CUDA systems · open-source systems PRs</b><br/>
+<sub>Rutgers computer science and data science student targeting MTS intern, software engineering intern, AI/ML systems intern, and infrastructure intern roles.</sub><br/>
+<sub><a href="https://aryanputta.com">portfolio</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse">merged open-source PRs</a> · <a href="https://www.linkedin.com/in/aryanputta">LinkedIn</a></sub>
+</div>
+
+<br/>
+
 <div align="center"><sub><code>// work</code></sub></div>
 
 <br/>
