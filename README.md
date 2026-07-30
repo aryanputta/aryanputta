@@ -3,8 +3,8 @@
 <br/>
 
 <div align="center">
-<b>AI infrastructure · inference optimization · KV cache · distributed systems · GPU/CUDA systems · open-source systems PRs</b><br/>
-<sub>Rutgers computer science and data science student targeting MTS intern, software engineering intern, AI/ML systems intern, and infrastructure intern roles.</sub><br/>
+<b>AI infrastructure · LLM inference · KV cache systems · distributed systems · cloud backends · open-source systems PRs</b><br/>
+<sub>Rutgers computer science and data science student targeting off-cycle SWE, AI infrastructure, ML systems, cloud backend, and MTS intern roles.</sub><br/>
 <sub><a href="https://aryanputta.com">portfolio</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse">merged open-source PRs</a> · <a href="https://www.linkedin.com/in/aryanputta">LinkedIn</a></sub>
 </div>
 
@@ -18,38 +18,45 @@
 <table border="0" cellspacing="0" cellpadding="14">
 <tr>
 <td align="center" width="48%">
-<a href="https://github.com/aryanputta/transformer-servex"><b><code>transformer-servex</code></b></a><br/>
-<sub>Production KV cache optimization · MoE routing · IO-aware attention for long-context LLMs</sub><br/><br/>
+<a href="https://github.com/aryanputta/KVCacheForge-X"><b><code>KVCacheForge-X</code></b></a><br/>
+<sub>KV-cache bottleneck lab · TTFT, latency, throughput, HBM stalls, GPU busy, baseline deltas</sub><br/><br/>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/CUDA-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Benchmarking-111111?style=flat-square&logo=pytest&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/LLM_Inference-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
 </td>
 <td align="center" width="48%">
-<a href="https://github.com/aryanputta/cuda-netopt"><b><code>cuda-netopt</code></b></a><br/>
-<sub>ML-driven TCP/UDP packet scheduling · DQN network routing · CUDA queue scoring</sub><br/><br/>
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/CUDA-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=C9AA71" />
+<a href="https://github.com/aryanputta/RoboFleetOps"><b><code>RoboFleetOps</code></b></a><br/>
+<sub>AWS-native robotics fleet control plane · Lambda, DynamoDB, SQS, IoT Core, API Gateway, CDK CI</sub><br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/DynamoDB-111111?style=flat-square&logo=amazondynamodb&logoColor=C9AA71" />
 </td>
 </tr>
 <tr><td colspan="2" height="10"></td></tr>
 <tr>
 <td align="center">
-<a href="https://github.com/aryanputta/AeroMimic"><b><code>AeroMimic</code></b></a><br/>
-<sub>Behavior cloning from expert pilots · real-time MAV autonomy · onboard inference stack</sub><br/><br/>
+<a href="https://github.com/aryanputta/PosCacheBench"><b><code>PosCacheBench</code></b></a><br/>
+<sub>Long-context benchmark for positional-attention failure modes under fixed KV-cache budgets</sub><br/><br/>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/ROS-111111?style=flat-square&logo=ros&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Benchmarks-111111?style=flat-square&logo=pytest&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/KV_Cache-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
 </td>
 <td align="center">
-<a href="https://github.com/aryanputta/aerosurrogate-control-stack"><b><code>aerosurrogate-control-stack</code></b></a><br/>
-<sub>CFD surrogate modeling · constrained optimization · robustness replacing FEM solvers</sub><br/><br/>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse"><b><code>open-source systems PRs</code></b></a><br/>
+<sub>Reviewed and merged work across NVIDIA, IBM, Microsoft, Hugging Face, FlashAttention, Kubernetes, Pulumi</sub><br/><br/>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/JAX-111111?style=flat-square&logo=google&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/CUDA-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/CI-111111?style=flat-square&logo=githubactions&logoColor=C9AA71" />
 </td>
 </tr>
 </table>
+</div>
+
+<br/>
+
+<div align="center">
+<sub><b>Availability:</b> off-cycle internships, co-ops, AI infrastructure internships, cloud/backend systems roles, and early MTS-style technical programs.</sub><br/>
+<sub><b>Current proof standard:</b> every performance claim needs reproducible commands, baseline comparison, hardware/software environment, and an honest limitations section.</sub>
 </div>
 
 <br/><br/>
@@ -86,7 +93,7 @@
 <br/>
 
 <div align="center">
-<sub><b>23 merged pull requests</b> across NVIDIA · IBM · Microsoft · HuggingFace · LinkedIn · Pulumi · Kubernetes · others — inference, CUDA, and ML-systems internals</sub>
+<sub><b>31 merged pull requests</b> across NVIDIA · IBM · Microsoft · HuggingFace · LinkedIn · Pulumi · Kubernetes · others — inference, CUDA, CI, and ML-systems internals</sub>
 </div>
 
 <br/>
