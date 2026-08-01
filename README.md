@@ -61,6 +61,13 @@
 
 <br/><br/>
 
+<div align="center">
+<sub><b>MTS / systems-intern signal:</b> hands-on work spanning CUDA and GPU systems, LLM inference, KV-cache optimization, distributed systems, cloud backends, and benchmarked performance engineering.</sub><br/>
+<sub><a href="https://aryanputta.com/projects">systems project evidence</a> · <a href="https://aryanputta.com/blog/kv-cache-memory-wall">KV-cache writing</a> · <a href="https://aryanputta.com/#github-activity">merged open-source proof</a></sub>
+</div>
+
+<br/><br/>
+
 <div align="center"><sub><code>// research</code></sub></div>
 
 <br/>
