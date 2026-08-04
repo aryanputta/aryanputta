@@ -55,7 +55,7 @@
 <br/>
 
 <div align="center">
-<sub><b>Availability:</b> off-cycle internships, co-ops, AI infrastructure internships, cloud/backend systems roles, and early MTS-style technical programs.</sub><br/>
+<sub><b>Availability:</b> off-cycle internships, co-ops, AI infrastructure and ML systems internships, cloud and backend engineering roles, early MTS-style technical programs, and founding or early-stage engineering work at seed and Series A startups.</sub><br/>
 <sub><b>Current proof standard:</b> every performance claim needs reproducible commands, baseline comparison, hardware/software environment, and an honest limitations section.</sub>
 </div>
 
