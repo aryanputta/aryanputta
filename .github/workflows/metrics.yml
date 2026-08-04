@@ -16,7 +16,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          # The stored METRICS_TOKEN is a classic PAT that expired, and an
+          # expired secret is still non-empty, so it cannot be fallen back
+          # from with ||. The built-in token reads everything this profile
+          # renders, since all of it is public.
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: aryanputta
           template: classic
           base: header, activity, community, repositories, metadata
