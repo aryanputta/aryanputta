@@ -5,7 +5,7 @@
 <div align="center">
 <b>AI infrastructure · LLM inference · KV cache systems · distributed systems · cloud backends · open-source systems PRs</b><br/>
 <sub>Rutgers computer science and data science student targeting off-cycle SWE, AI infrastructure, ML systems, cloud backend, and MTS intern roles.</sub><br/>
-<sub><a href="https://aryanputta.com">portfolio</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse">merged open-source PRs</a> · <a href="https://www.linkedin.com/in/aryanputta">LinkedIn</a></sub>
+<sub><a href="https://aryanputta.com">portfolio</a> · <a href="https://github.com/search?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse&type=pullrequests">merged open-source PRs</a> · <a href="https://www.linkedin.com/in/aryanputta">LinkedIn</a></sub>
 </div>
 
 <br/>
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/KV_Cache-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
 </td>
 <td align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse"><b><code>open-source systems PRs</code></b></a><br/>
+<a href="https://github.com/search?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse&type=pullrequests"><b><code>open-source systems PRs</code></b></a><br/>
 <sub>Reviewed and merged work across NVIDIA, IBM, Microsoft, Hugging Face, FlashAttention, Kubernetes, Pulumi</sub><br/><br/>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/CUDA-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
@@ -76,12 +76,12 @@
 <table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td align="left" width="50%">
-<a href="https://aryanputta.com/papers/hybrid-satellite-telemetry-anomaly-detection.html"><b><code>satellite telemetry anomaly detection</code></b></a><br/>
+<a href="https://aryanputta.com/assets/papers/hybrid-satellite-telemetry-anomaly-detection.pdf"><b><code>satellite telemetry anomaly detection</code></b></a><br/>
 <sub>100K telemetry readings · 5 NASA/ESA fault modes · recurrence-plot CV · 0.91 F1 on Kepler-class wheel oscillation</sub><br/>
 <sub><a href="https://aryanputta.com/assets/papers/hybrid-satellite-telemetry-anomaly-detection.pdf">PDF</a> · <a href="https://github.com/aryanputta/satellite-anomaly-detection">repo</a></sub>
 </td>
 <td align="left" width="50%">
-<a href="https://aryanputta.com/papers/bell-labs-innovation-ml-analysis.html"><b><code>bell labs ml impact analysis</code></b></a><br/>
+<a href="https://aryanputta.com/assets/papers/bell-labs-innovation-ml-analysis.pdf"><b><code>bell labs ml impact analysis</code></b></a><br/>
 <sub>71-paper corpus · semantic clustering · co-authorship networks · Gradient Boosting AUC 0.674 · SHAP attribution</sub><br/>
 <sub><a href="https://aryanputta.com/assets/papers/bell-labs-innovation-ml-analysis.pdf">PDF</a> · <a href="https://github.com/aryanputta/belllabs-ml-impact">repo</a></sub>
 </td>
@@ -142,7 +142,7 @@
 </div>
 
 <div align="center">
-<sub><a href="https://github.com/pulls?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse">→ all merged pull requests</a></sub>
+<sub><a href="https://github.com/search?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse&type=pullrequests">→ all merged pull requests</a></sub>
 </div>
 
 <br/><br/>
