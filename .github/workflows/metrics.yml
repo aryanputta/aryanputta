@@ -3,8 +3,10 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches: ["main"]
+  # No push trigger. This action takes about 16 minutes per run, and the
+  # metrics it renders are daily aggregates that a commit does not change,
+  # so firing on every push spent a quarter hour of runner time to redraw
+  # the same image.
 
 jobs:
   github-metrics:
