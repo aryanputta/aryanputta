@@ -99,8 +99,9 @@
 
 <br/>
 
+<!-- pr-stats:start -->
 <div align="center">
-<sub><b>32 merged pull requests</b> across NVIDIA · IBM · Microsoft · AWS · HuggingFace · LinkedIn · Pulumi · Kubernetes · simdutf — inference, CUDA, CI, and ML-systems internals</sub>
+<sub><b>32 merged pull requests</b> across NVIDIA · IBM · Dynamo · FlashAttention · Kubernetes · Microsoft · simdutf · AWS · HuggingFace · kornia · Liger Kernel · Pulumi — inference, CUDA, CI, and ML-systems internals</sub>
 </div>
 
 <br/>
@@ -109,16 +110,17 @@
 <img src="https://img.shields.io/badge/NVIDIA-14_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/IBM-3_merged-111111?style=flat-square&logo=ibm&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Dynamo-2_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/Microsoft-2_merged-111111?style=flat-square&logo=microsoft&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/HuggingFace-1_merged-111111?style=flat-square&logo=huggingface&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/FlashAttention-2_merged-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/Liger_Kernel-1_merged-111111?style=flat-square&logo=linkedin&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/Pulumi-1_merged-111111?style=flat-square&logo=pulumi&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Kubernetes-2_merged-111111?style=flat-square&logo=kubernetes&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/kornia-1_merged-111111?style=flat-square&logo=python&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Microsoft-2_merged-111111?style=flat-square&logo=microsoft&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/simdutf-2_merged-111111?style=flat-square&logo=cplusplus&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/AWS-1_merged-111111?style=flat-square&logo=amazonaws&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/HuggingFace-1_merged-111111?style=flat-square&logo=huggingface&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/kornia-1_merged-111111?style=flat-square&logo=python&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Liger_Kernel-1_merged-111111?style=flat-square&logo=linkedin&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/Pulumi-1_merged-111111?style=flat-square&logo=pulumi&logoColor=C9AA71" />
 </div>
+<!-- pr-stats:end -->
 
 <br/>
 
