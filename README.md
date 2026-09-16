@@ -16,13 +16,13 @@
 
 <!-- pr-stats:start -->
 <div align="center">
-<sub><b>39 merged pull requests</b> across NVIDIA · IBM · Dynamo · FlashAttention · Kubernetes · Microsoft · simdutf · apache · ArduPilot · AWS · EleutherAI · HuggingFace · kornia · Liger Kernel · NVlabs · Pulumi — inference, CUDA, CI, and ML-systems internals</sub>
+<sub><b>41 merged pull requests</b> across NVIDIA · IBM · Dynamo · FlashAttention · Kubernetes · Microsoft · simdutf · apache · ArduPilot · AWS · EleutherAI · HuggingFace · kornia · Liger Kernel · NVlabs · Pulumi · watertap-org — inference, CUDA, CI, and ML-systems internals</sub>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/NVIDIA-17_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/NVIDIA-18_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/IBM-3_merged-111111?style=flat-square&logo=ibm&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Dynamo-2_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/FlashAttention-2_merged-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Liger_Kernel-1_merged-111111?style=flat-square&logo=linkedin&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/NVlabs-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Pulumi-1_merged-111111?style=flat-square&logo=pulumi&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/watertap-org-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 </div>
 <!-- pr-stats:end -->
 
