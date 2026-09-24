@@ -135,3 +135,16 @@
 </div>
 
 <br/>
+
+<div align="center"><b>CONTRIBUTION ACTIVITY</b></div>
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanputta/aryanputta/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanputta/aryanputta/output/snake.svg">
+  <img alt="Aryan Putta contribution activity" src="https://raw.githubusercontent.com/aryanputta/aryanputta/output/snake.svg">
+</picture>
+</div>
+
