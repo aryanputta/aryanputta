@@ -16,7 +16,7 @@
 
 <!-- pr-stats:start -->
 <div align="center">
-<sub><b>41 merged pull requests</b> across NVIDIA · IBM · Dynamo · FlashAttention · Kubernetes · Microsoft · simdutf · apache · ArduPilot · AWS · EleutherAI · HuggingFace · kornia · Liger Kernel · NVlabs · Pulumi · watertap-org — inference, CUDA, CI, and ML-systems internals</sub>
+<sub><b>42 merged pull requests</b> across NVIDIA · IBM · Dynamo · FlashAttention · Kubernetes · Microsoft · simdutf · apache · ArduPilot · AWS · EleutherAI · HuggingFace · kornia · Liger Kernel · MLH-Fellowship · NVlabs · Pulumi · watertap-org — inference, CUDA, CI, and ML-systems internals</sub>
 </div>
 
 <br/>
@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/HuggingFace-1_merged-111111?style=flat-square&logo=huggingface&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/kornia-1_merged-111111?style=flat-square&logo=python&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Liger_Kernel-1_merged-111111?style=flat-square&logo=linkedin&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/MLH-Fellowship-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/NVlabs-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Pulumi-1_merged-111111?style=flat-square&logo=pulumi&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/watertap-org-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
