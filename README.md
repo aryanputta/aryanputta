@@ -68,33 +68,6 @@
 <div align="center"><b>SYSTEMS WORK</b></div>
 
 <br/>
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="14">
-<tr>
-<td align="left" width="50%">
-<a href="https://github.com/aryanputta/KVCacheForge-X"><b><code>KVCacheForge-X</code></b></a><br/>
-<sub>KV-cache bottleneck lab. Measures TTFT, latency, throughput, HBM stalls, and GPU busy against baseline deltas.</sub>
-</td>
-<td align="left" width="50%">
-<a href="https://github.com/aryanputta/RoboFleetOps"><b><code>RoboFleetOps</code></b></a><br/>
-<sub>AWS-native robotics fleet control plane on Lambda, DynamoDB, SQS, IoT Core, and API Gateway, deployed via CDK CI.</sub>
-</td>
-</tr>
-<tr><td colspan="2" height="10"></td></tr>
-<tr>
-<td align="left">
-<a href="https://github.com/aryanputta/PosCacheBench"><b><code>PosCacheBench</code></b></a><br/>
-<sub>Long-context benchmark for positional-attention failure modes under fixed KV-cache budgets.</sub>
-</td>
-<td align="left">
-<a href="https://github.com/aryanputta/LunarLinkBench"><b><code>LunarLinkBench</code></b></a><br/>
-<sub>Monte Carlo model of lunar comms links, separating relay passes from direct-to-Earth feasibility.</sub>
-</td>
-</tr>
-</table>
-</div>
-
 <br/><br/>
 
 <div align="center"><b>RESEARCH</b></div>
