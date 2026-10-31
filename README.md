@@ -63,12 +63,6 @@
 <sub><a href="https://github.com/search?q=is%3Apr+author%3Aaryanputta+is%3Amerged+archived%3Afalse&type=pullrequests">→ all merged pull requests</a></sub>
 </div>
 
-<br/><br/>
-
-<br/>
-<br/><br/>
-<br/><br/>
-
 <br/>
 
 <div align="center">
