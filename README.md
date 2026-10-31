@@ -37,7 +37,6 @@
 <img src="https://img.shields.io/badge/Liger_Kernel-1_merged-111111?style=flat-square&logo=linkedin&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/NVlabs-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Pulumi-1_merged-111111?style=flat-square&logo=pulumi&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/watertap-org-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 </div>
 <!-- pr-stats:end -->
 
