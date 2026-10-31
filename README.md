@@ -23,8 +23,6 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/NVIDIA-18_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/MLH-Fellowship-4_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/torch-spyre-3_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Dynamo-2_merged-111111?style=flat-square&logo=nvidia&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/FlashAttention-2_merged-111111?style=flat-square&logo=pytorch&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Kubernetes-2_merged-111111?style=flat-square&logo=kubernetes&logoColor=C9AA71" />
