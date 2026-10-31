@@ -123,10 +123,6 @@
 
 <br/><br/>
 
-<div align="center">
-<sub><b>How I work:</b> every performance claim ships with reproducible commands, a named baseline, the hardware and software environment, and an honest limitations section. A result I cannot reproduce is not a result.</sub>
-</div>
-
 <br/>
 
 <div align="center">
