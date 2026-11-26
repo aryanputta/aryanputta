@@ -16,7 +16,7 @@
 
 <!-- pr-stats:start -->
 <div align="center">
-<sub><b>46 merged pull requests</b> across NVIDIA · MLH-Fellowship · torch-spyre · Dynamo · FlashAttention · Kubernetes · Microsoft · simdutf · apache · ArduPilot · AWS · EleutherAI · HuggingFace · kornia · Liger Kernel · NVlabs · Pulumi · solana-foundation · watertap-org — inference, CUDA, CI, and ML-systems internals</sub>
+<sub><b>47 merged pull requests</b> across NVIDIA · MLH-Fellowship · torch-spyre · Dynamo · FlashAttention · Kubernetes · Microsoft · simdutf · solana-foundation · apache · ArduPilot · AWS · EleutherAI · HuggingFace · kornia · Liger Kernel · NVlabs · Pulumi · watertap-org — inference, CUDA, CI, and ML-systems internals</sub>
 </div>
 
 <br/>
@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Kubernetes-2_merged-111111?style=flat-square&logo=kubernetes&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Microsoft-2_merged-111111?style=flat-square&logo=microsoft&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/simdutf-2_merged-111111?style=flat-square&logo=cplusplus&logoColor=C9AA71" />
+<img src="https://img.shields.io/badge/solana-foundation-2_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/apache-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/ArduPilot-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/AWS-1_merged-111111?style=flat-square&logo=amazonaws&logoColor=C9AA71" />
@@ -39,7 +40,6 @@
 <img src="https://img.shields.io/badge/Liger_Kernel-1_merged-111111?style=flat-square&logo=linkedin&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/NVlabs-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/Pulumi-1_merged-111111?style=flat-square&logo=pulumi&logoColor=C9AA71" />
-<img src="https://img.shields.io/badge/solana-foundation-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 <img src="https://img.shields.io/badge/watertap-org-1_merged-111111?style=flat-square&logo=github&logoColor=C9AA71" />
 </div>
 <!-- pr-stats:end -->
